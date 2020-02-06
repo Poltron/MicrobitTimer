@@ -1,7 +1,8 @@
 # MicrobitTimer
 
-Small project for a freelance client
-The goal is to animate the HALO Zip to make a circular timer
+Timer animation on a HALO Zip placed on a Micro:bit card<br />
 
-The .hex file goes on the microbit card.
-The JS code you can copy-pasta on https://makecode.microbit.org/#editor
+# How to use
+
+To edit the project, copy the JS code on https://makecode.microbit.org/#editor.<br />
+To run the program, place the .hex file on your microbit card.<br />

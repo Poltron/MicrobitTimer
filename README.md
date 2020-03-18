@@ -1,6 +1,6 @@
 # MicrobitTimer
 
-Timer animation on a HALO Zip placed on a Micro:bit card<br />
+Timer animation Micro:bit card equipped with the Halo ZIP 24 LEDs<br />
 
 # How to use
 
